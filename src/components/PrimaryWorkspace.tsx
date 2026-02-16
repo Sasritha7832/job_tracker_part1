@@ -9,7 +9,7 @@ export const PrimaryWorkspace: React.FC = () => {
         <div className="primary-workspace">
             <Card heading="Project Definition">
                 <div className="grid-2-col">
-                    <Input label="Project Name" placeholder="e.g. KodNest Premium" />
+                    <Input label="Project Name" placeholder="e.g. Job Tracker Premium" />
                     <Input label="Industry" placeholder="e.g. SaaS" />
                 </div>
                 <Textarea label="Core Value Proposition" placeholder="What is the main problem this product solves?" />

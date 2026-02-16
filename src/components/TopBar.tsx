@@ -4,7 +4,7 @@ import React from 'react';
 export const TopBar: React.FC = () => {
     return (
         <header className="top-bar">
-            <div className="project-name">KodNest Premium Build System</div>
+            <div className="project-name">Premium Build System</div>
 
             <div className="progress-indicator">
                 <span className="step-count">Step 1 / 5</span>
